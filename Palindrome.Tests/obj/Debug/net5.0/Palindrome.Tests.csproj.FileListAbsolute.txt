@@ -1,0 +1,5 @@
+/Users/seth/Desktop/Pallindrome/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.csprojAssemblyReference.cache
+/Users/seth/Desktop/Pallindrome/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seth/Desktop/Pallindrome/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.AssemblyInfoInputs.cache
+/Users/seth/Desktop/Pallindrome/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.AssemblyInfo.cs
+/Users/seth/Desktop/Pallindrome/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.csproj.CoreCompileInputs.cache
