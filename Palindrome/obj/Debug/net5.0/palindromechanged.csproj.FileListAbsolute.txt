@@ -1,0 +1,12 @@
+/Users/seth/Desktop/Pallindrome/Palindrome/bin/Debug/net5.0/palindromechanged.deps.json
+/Users/seth/Desktop/Pallindrome/Palindrome/bin/Debug/net5.0/palindromechanged.dll
+/Users/seth/Desktop/Pallindrome/Palindrome/bin/Debug/net5.0/ref/palindromechanged.dll
+/Users/seth/Desktop/Pallindrome/Palindrome/bin/Debug/net5.0/palindromechanged.pdb
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.csprojAssemblyReference.cache
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.AssemblyInfoInputs.cache
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.AssemblyInfo.cs
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.csproj.CoreCompileInputs.cache
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.dll
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/ref/palindromechanged.dll
+/Users/seth/Desktop/Pallindrome/Palindrome/obj/Debug/net5.0/palindromechanged.pdb

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Palindrome\palindrome.csproj" />  
+    <ProjectReference Include="..\Palindrome\palindromechanged.csproj" />  
   </ItemGroup>
 
 </Project>

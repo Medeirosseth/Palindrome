@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Palindrome;
+using PalindromeChecker;
 
 namespace Palindrome.Tests
 {
@@ -7,12 +7,14 @@ namespace Palindrome.Tests
   public class PalindromeTests
   {
     [TestMethod]
-    public void ToArray_ChangingStringToArray_Array()
+    public void ReturnString_SavesUserStringInToAVariable_String()
     {
-      string testPalindrome = "racecar";
+      string userInput = "racecar";
+      Palindrome testUserString = new Palindrome();
+      Assert.AreEqual(true, testUserString.UserString(userInput));
       // Palindrome testPalindrome = new Palindrome();
       // Assert.AreEqual(true, testPalindrome.IsArray());
-      Assert.AreEqual(palindromeArray, ToArray(testPalindrome));
+      // Assert.AreEqual(palindromeArray, ToArray(testPalindrome));
     
     }
   }

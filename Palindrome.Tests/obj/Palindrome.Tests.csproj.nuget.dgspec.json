@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/seth/Desktop/Pallindrome/Palindrome/palindrome.csproj": {
-                "projectPath": "/Users/seth/Desktop/Pallindrome/Palindrome/palindrome.csproj"
+              "/Users/seth/Desktop/Pallindrome/Palindrome/palindromechanged.csproj": {
+                "projectPath": "/Users/seth/Desktop/Pallindrome/Palindrome/palindromechanged.csproj"
               }
             }
           }
@@ -74,12 +74,12 @@
         }
       }
     },
-    "/Users/seth/Desktop/Pallindrome/Palindrome/palindrome.csproj": {
+    "/Users/seth/Desktop/Pallindrome/Palindrome/palindromechanged.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seth/Desktop/Pallindrome/Palindrome/palindrome.csproj",
-        "projectName": "palindrome",
-        "projectPath": "/Users/seth/Desktop/Pallindrome/Palindrome/palindrome.csproj",
+        "projectUniqueName": "/Users/seth/Desktop/Pallindrome/Palindrome/palindromechanged.csproj",
+        "projectName": "palindromechanged",
+        "projectPath": "/Users/seth/Desktop/Pallindrome/Palindrome/palindromechanged.csproj",
         "packagesPath": "/Users/seth/.nuget/packages/",
         "outputPath": "/Users/seth/Desktop/Pallindrome/Palindrome/obj/",
         "projectStyle": "PackageReference",
